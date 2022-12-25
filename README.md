@@ -60,8 +60,20 @@ apt install keepalived
 ```
 Настроила vm1
 
+![img931](img/img2022-12-26%20000931.png)
+
+![img 106](img/img2022-12-26%20001106.png)
+
+![img 843](img/img2022-12-26%20000843.png)
 
 Настроила vm2
+
+![Alt text](img/img2022-12-26%20002234.png)
+
+![Alt text](img/img2022-12-26%20002317.png)
+
+![Alt text](img/img2022-12-26%20002202.png)
+
 
 ## Дополнительные задания (со звездочкой*)
 
@@ -79,3 +91,13 @@ apt install keepalived
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
  
  ### *<a name="2"> Ответ к Заданию 2*</a>*
+
+![Alt text](img/img2022-12-26%20004803.png)
+
+![Alt text](img/img2022-12-26%20005359.png)
+
+![Alt text](img/img2022-12-26%20005704.png)
+
+![Alt text](img/img2022-12-26%20005753.png)
+
+![Alt text](img/img2022-12-26%20010052.png)
