@@ -51,6 +51,17 @@ virtual_ipaddress {
 
 ### *<a name="1"> Ответ к Заданию 1</a>*
 
+Установила `keepalived` на vm1 и vm2
+
+```bash
+
+apt install keepalived
+
+```
+Настроила vm1
+
+
+Настроила vm2
 
 ## Дополнительные задания (со звездочкой*)
 
